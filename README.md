@@ -2,9 +2,7 @@
 
 Hi there👋 I'm an experience product marketer in the consumer electronics industry. Most people think that marketing is all about creativity and design and all the fluffy things that comes out of our right-brain. But the best marketers have equally powerful left-brains, an analytical mind that helps them make logical decisions and deliver effective marketing strategies. And in that cross-section of Marketing x Data, is where I want to build my career.
 
-- 🤔 I’m looking for job opportunities in the field of data that leverages on my marketing experience
-- 🔭 I’m currently working on a recommender system based on customer purchase history
-- 🌱 I’m currently learning the myriad of tools available on the Google Cloud Platform
+- 🌱 I’m currently learning "NoSQL, Big Data and Spark Foundations" on Coursera
 
 ### Get in Touch
 Email: lance.ngck@gmail.com
